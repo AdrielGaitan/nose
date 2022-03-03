@@ -1,0 +1,1 @@
+export API_KEY=AIzaSyC05rzlrB32J1loGlsqpTRA5Gh7BtA036g⁹
